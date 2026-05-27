@@ -28,34 +28,44 @@ This commands includes
 
 ## Output
 netstat
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/298356d6-b86d-4f3d-863d-985921d5e597" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/578bc0fd-ae24-457b-a106-fb33e10ae931" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/140bad54-effd-4cf5-a03a-8e75a8541407" />
 
 ipconfig
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/925ad8ea-5d0d-468f-b1f8-eb1137888de4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73285208-cf08-4b33-b0f3-71fd3427f528" />
+
 
 ping
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d59996a8-cbaa-40e8-9a19-955eaf9982ef" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cded0688-ef76-4c6e-a1c4-7cbc4eb63c66" />
+
 
 tracert
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/771e58e3-2856-4885-b11b-0aecf4ee784c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e490314-75a0-4d5a-be96-9c3bdc6e25a2" />
+
 
 nslookup
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/962ef0e0-d376-4412-9fba-5c1971f75b4c" />
+
 
 getmac
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c1e8be44-fff9-4393-a0bb-08bf9115fdda" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b21f784-04fa-4431-b1f5-f3006bafe411" />
+
 
 hostname
-<img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/bb63fb1b-24fc-4369-a64b-b6fdf89be8f9" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4fdaff71-37ca-4f49-b82d-7ba214aa1b8f" />
 
-nbstat
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/68723cff-ca38-4d1d-af4b-da0729ae6493" />
+
+nbtstat
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29f1d7c1-efa0-43fb-93e3-7ad166eaa1f8" />
+
 
 ARP
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/593e5368-febd-4fe2-8fa9-056bc02e2029" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/185432f6-ef1b-4e56-b9d9-9aece59334c4" />
+
 
 systeminfo
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/51264ae4-b7eb-47f3-8c42-37b4334ca7e5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93189916-ec52-4e69-9642-d0f8e0d2de6f" />
+
 
 ## Result
 Thus Execution of Network commands Performed 
