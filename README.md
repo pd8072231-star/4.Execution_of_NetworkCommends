@@ -45,6 +45,7 @@ tracert
 
 
 nslookup
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24a044d1-559d-4348-b796-66c1c9ab7dca" />
 
 
 getmac
@@ -60,7 +61,8 @@ nbtstat
 
 
 ARP
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/185432f6-ef1b-4e56-b9d9-9aece59334c4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/04ae96d8-6409-4667-9709-87f7af2671a0" />
+
 
 
 systeminfo
